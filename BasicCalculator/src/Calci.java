@@ -8,7 +8,7 @@ public class Calci {
 		Scanner input=new Scanner(System.in);
 		System.out.println("Enter the first number");
 		n1=input.nextInt();
-		System.out.println("Enter the second number");
+		System.out.println("Enter the second number"); //enter second number
 		n2=input.nextInt();
 		Scanner op=new Scanner(System.in);
 		System.out.println("Enter the operation");
