@@ -6,7 +6,7 @@ public class Calci {
 		int n2;
 		String operation;
 		Scanner input=new Scanner(System.in);
-		System.out.println("Enter the first number");
+		System.out.println("Enter the first number");//enter numbers to add subtract addition 
 		n1=input.nextInt();
 		System.out.println("Enter the second number");
 		n2=input.nextInt();
